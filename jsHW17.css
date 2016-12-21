@@ -1,0 +1,11 @@
+h2,
+img {
+    cursor: pointer;
+    position: relative;
+}
+
+body {
+    /*background-image: url('images/background.png');*/
+    margin-left: 2%;
+    margin-right: 2%;
+}
